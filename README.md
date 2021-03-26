@@ -72,7 +72,8 @@ Seaborn
 #### Importing Libraries
 
 
-``` import numpy as np  
+``` 
+import numpy as np  
 import pandas as pd  
 import seaborn as sns  
 import matplotlib.pyplot as plt 
@@ -85,7 +86,9 @@ Dataset taken from kaggle or uci too Dataset name: iris.csv https://www.kaggle.c
 
 
 
-```  data = pd.read_csv('iris1.csv') 
+``` 
+data = pd.read_csv('iris1.csv') 
+
 ```
 
 
